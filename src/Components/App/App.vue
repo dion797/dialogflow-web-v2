@@ -81,7 +81,7 @@ body
     background-color: white
 
 .container
-    max-width: 500px
+    /*max-width: 500px*/
     margin-left: auto
     margin-right: auto
     padding: 16px

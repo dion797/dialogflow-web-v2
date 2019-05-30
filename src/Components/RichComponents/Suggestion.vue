@@ -4,6 +4,7 @@
 
 <style lang="sass" scoped>
 .suggestion
+    font-size: 11px
     display: inline-block
     padding: 8px 12px
     border-radius: 40px
